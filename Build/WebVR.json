@@ -4,7 +4,7 @@
 "dataUrl": "WebVR.data.unityweb",
 "wasmCodeUrl": "WebVR.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebVR.wasm.framework.unityweb",
-"TOTAL_MEMORY": 536870912,
+"TOTAL_MEMORY": 1073741824,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
